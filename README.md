@@ -10,7 +10,7 @@ This is a very basic Rock Paper Scissor Game
 ## Installation 🛠 
 1. **Clone the repository:**
    ```bash
-   git clone
+   git clone    git clone https://github.com/your_userName/RPS.git
 
 2. **Navigate to the project directory:**
    ```bash
